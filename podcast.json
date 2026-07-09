@@ -18,6 +18,15 @@
       "duration": 503.712,
       "bytes": 6233037,
       "pubDate": "2026-07-08"
+    },
+    {
+      "num": "002",
+      "title": "A Message From Tomorrow",
+      "description": "A voicemail from your own number, timestamped tomorrow, asking one small favor. Then another. Then another. An original slow-burn horror story about obedience, time, and who is really on the other end of the line. Written and produced for Hollow Hour. Original fiction. Headphones recommended.",
+      "file": "episodes/002-a-message-from-tomorrow.mp3",
+      "duration": 474.216,
+      "bytes": 5818797,
+      "pubDate": "2026-07-09"
     }
   ]
 }
