@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hollow Hour</title>
+    <link>https://vivekreddy99.github.io/hollow-hour-podcast</link>
+    <language>en</language>
+    <description>Original horror stories told in the dark. Quiet, unsettling tales — a door that shouldn&#x27;t open, a voice on a dead line, a face in an old photograph — narrated to keep you just a little too awake. New story Monday, Wednesday, and Friday. Listen with the lights on.</description>
+    <itunes:summary>Original horror stories told in the dark. Quiet, unsettling tales — a door that shouldn&#x27;t open, a voice on a dead line, a face in an old photograph — narrated to keep you just a little too awake. New story Monday, Wednesday, and Friday. Listen with the lights on.</itunes:summary>
+    <itunes:author>Hollow Hour</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Hollow Hour</itunes:name>
+      <itunes:email>earlybrightyoutube@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://vivekreddy99.github.io/hollow-hour-podcast/art/cover.jpg"/>
+    <itunes:category text="Fiction"/>
+    <image><url>https://vivekreddy99.github.io/hollow-hour-podcast/art/cover.jpg</url><title>Hollow Hour</title><link>https://vivekreddy99.github.io/hollow-hour-podcast</link></image>
+    <item>
+      <title>The Twelfth Door</title>
+      <description>Eleven doors on the sixth floor. Every night, for sixteen months. Then, one night in March — twelve. An original slow-burn horror story about the rooms that buildings grow when they think no one is counting. Written and produced for Hollow Hour. Headphones recommended. Original fiction.</description>
+      <itunes:summary>Eleven doors on the sixth floor. Every night, for sixteen months. Then, one night in March — twelve. An original slow-burn horror story about the rooms that buildings grow when they think no one is counting. Written and produced for Hollow Hour. Headphones recommended. Original fiction.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hollow-hour-podcast/episodes/001-the-twelfth-door.mp3" length="6233037" type="audio/mpeg"/>
+      <guid isPermaLink="false">bujji-001</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:08:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>

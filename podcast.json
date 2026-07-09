@@ -1,0 +1,23 @@
+{
+  "title": "Hollow Hour",
+  "description": "Original horror stories told in the dark. Quiet, unsettling tales \u2014 a door that shouldn't open, a voice on a dead line, a face in an old photograph \u2014 narrated to keep you just a little too awake. New story Monday, Wednesday, and Friday. Listen with the lights on.",
+  "author": "Hollow Hour",
+  "owner_email": "earlybrightyoutube@gmail.com",
+  "language": "en",
+  "category": "Fiction",
+  "explicit": "false",
+  "base_url": "https://vivekreddy99.github.io/hollow-hour-podcast",
+  "link": "https://vivekreddy99.github.io/hollow-hour-podcast",
+  "cover": "art/cover.jpg",
+  "episodes": [
+    {
+      "num": "001",
+      "title": "The Twelfth Door",
+      "description": "Eleven doors on the sixth floor. Every night, for sixteen months. Then, one night in March \u2014 twelve. An original slow-burn horror story about the rooms that buildings grow when they think no one is counting. Written and produced for Hollow Hour. Headphones recommended. Original fiction.",
+      "file": "episodes/001-the-twelfth-door.mp3",
+      "duration": 503.712,
+      "bytes": 6233037,
+      "pubDate": "2026-07-08"
+    }
+  ]
+}
