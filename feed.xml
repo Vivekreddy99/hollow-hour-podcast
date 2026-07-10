@@ -39,5 +39,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>2</itunes:episode>
     </item>
+    <item>
+      <title>The Wave at Three Seventeen</title>
+      <description>A quiet street, a friendly town, and a neighbor who has waved from his dark window at 3:17 every morning for forty years. An original horror story about small-town rituals, the jobs that outlive the people who hold them, and the cost of waving back. Written and produced for Hollow Hour. Original fiction.</description>
+      <itunes:summary>A quiet street, a friendly town, and a neighbor who has waved from his dark window at 3:17 every morning for forty years. An original horror story about small-town rituals, the jobs that outlive the people who hold them, and the cost of waving back. Written and produced for Hollow Hour. Original fiction.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hollow-hour-podcast/episodes/003-the-wave-at-three-seventeen.mp3" length="6754101" type="audio/mpeg"/>
+      <guid isPermaLink="false">bujji-003</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:09:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+    </item>
   </channel>
 </rss>
