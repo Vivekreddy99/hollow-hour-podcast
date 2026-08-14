@@ -50,5 +50,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>3</itunes:episode>
     </item>
+    <item>
+      <title>Forty Minutes Through Merrow</title>
+      <description>A late-night drive, a forced detour, and the town of Merrow — lit up at midnight, polite, patient, and missing from every map ever printed. An original horror story about the voices we obey without thinking, and the places holding a door open for us. Written and produced for Hollow Hour. Original fiction.</description>
+      <itunes:summary>A late-night drive, a forced detour, and the town of Merrow — lit up at midnight, polite, patient, and missing from every map ever printed. An original horror story about the voices we obey without thinking, and the places holding a door open for us. Written and produced for Hollow Hour. Original fiction.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hollow-hour-podcast/episodes/005-forty-minutes-through-merrow.mp3" length="6003837" type="audio/mpeg"/>
+      <guid isPermaLink="false">bujji-005</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:09:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>5</itunes:episode>
+    </item>
   </channel>
 </rss>
