@@ -61,5 +61,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>5</itunes:episode>
     </item>
+    <item>
+      <title>The Man in the Photograph</title>
+      <description>An imaginary friend from thirty years ago turns up in a stranger&#x27;s photograph from 1958 — and then in another, and another, each time nearer to the child in the frame. An original horror story about memory, wallpaper, and a game of hide and seek that was never called. Written and produced for Hollow Hour. Original fiction.</description>
+      <itunes:summary>An imaginary friend from thirty years ago turns up in a stranger&#x27;s photograph from 1958 — and then in another, and another, each time nearer to the child in the frame. An original horror story about memory, wallpaper, and a game of hide and seek that was never called. Written and produced for Hollow Hour. Original fiction.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hollow-hour-podcast/episodes/007-the-man-in-the-photograph.mp3" length="7890621" type="audio/mpeg"/>
+      <guid isPermaLink="false">bujji-007</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:10:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>7</itunes:episode>
+    </item>
   </channel>
 </rss>
