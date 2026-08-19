@@ -72,5 +72,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>7</itunes:episode>
     </item>
+    <item>
+      <title>Party of Four</title>
+      <description>Never stay the seventh night. Five friends did — and came home as four friends who had always been four, except for the extra sleeping bag, the unclaimed blue mug, and the laugh he can&#x27;t stop almost remembering. An original wilderness horror story about the things that edit us gently. Written and produced for Hollow Hour. Original fiction.</description>
+      <itunes:summary>Never stay the seventh night. Five friends did — and came home as four friends who had always been four, except for the extra sleeping bag, the unclaimed blue mug, and the laugh he can&#x27;t stop almost remembering. An original wilderness horror story about the things that edit us gently. Written and produced for Hollow Hour. Original fiction.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hollow-hour-podcast/episodes/008-party-of-four.mp3" length="7453773" type="audio/mpeg"/>
+      <guid isPermaLink="false">bujji-008</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:10:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>8</itunes:episode>
+    </item>
   </channel>
 </rss>
