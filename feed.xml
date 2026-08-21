@@ -83,5 +83,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>8</itunes:episode>
     </item>
+    <item>
+      <title>The 2:44 Customer</title>
+      <description>Same customer. Same three items. 2:44 AM, every single night. Tonight he walked in before his car pulled up — and the register remembers what the clerk doesn&#x27;t.</description>
+      <itunes:summary>Same customer. Same three items. 2:44 AM, every single night. Tonight he walked in before his car pulled up — and the register remembers what the clerk doesn&#x27;t.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hollow-hour-podcast/episodes/009-the-2-44-customer.mp3" length="8189661" type="audio/mpeg"/>
+      <guid isPermaLink="false">bujji-009</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:10:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>9</itunes:episode>
+    </item>
   </channel>
 </rss>
