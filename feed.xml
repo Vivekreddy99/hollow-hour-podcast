@@ -94,5 +94,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>9</itunes:episode>
     </item>
+    <item>
+      <title>The Second Nursery</title>
+      <description>Her baby monitor has a second channel. The nursery on it doesn&#x27;t exist — yet.</description>
+      <itunes:summary>Her baby monitor has a second channel. The nursery on it doesn&#x27;t exist — yet.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hollow-hour-podcast/episodes/010-the-second-nursery.mp3" length="7261917" type="audio/mpeg"/>
+      <guid isPermaLink="false">bujji-010</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:09:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>10</itunes:episode>
+    </item>
   </channel>
 </rss>

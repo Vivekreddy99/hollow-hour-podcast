@@ -72,6 +72,15 @@
       "duration": 655.536,
       "bytes": 8189661,
       "pubDate": "2026-08-21"
+    },
+    {
+      "num": "010",
+      "title": "The Second Nursery",
+      "description": "Her baby monitor has a second channel. The nursery on it doesn't exist \u2014 yet.",
+      "file": "episodes/010-the-second-nursery.mp3",
+      "duration": 586.104,
+      "bytes": 7261917,
+      "pubDate": "2026-08-24"
     }
   ]
 }
