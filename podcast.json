@@ -81,6 +81,15 @@
       "duration": 586.104,
       "bytes": 7261917,
       "pubDate": "2026-08-24"
+    },
+    {
+      "num": "011",
+      "title": "The Deer Doesn't Move",
+      "description": "Six days, four trail cameras, one deer that never moves a pixel. The problem is what keeps triggering the shutter.",
+      "file": "episodes/011-the-deer-doesn-t-move.mp3",
+      "duration": 525.672,
+      "bytes": 6592605,
+      "pubDate": "2026-08-26"
     }
   ]
 }

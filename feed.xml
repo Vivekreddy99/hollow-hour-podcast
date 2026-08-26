@@ -105,5 +105,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>10</itunes:episode>
     </item>
+    <item>
+      <title>The Deer Doesn&#x27;t Move</title>
+      <description>Six days, four trail cameras, one deer that never moves a pixel. The problem is what keeps triggering the shutter.</description>
+      <itunes:summary>Six days, four trail cameras, one deer that never moves a pixel. The problem is what keeps triggering the shutter.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hollow-hour-podcast/episodes/011-the-deer-doesn-t-move.mp3" length="6592605" type="audio/mpeg"/>
+      <guid isPermaLink="false">bujji-011</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:08:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>11</itunes:episode>
+    </item>
   </channel>
 </rss>
