@@ -90,6 +90,15 @@
       "duration": 525.672,
       "bytes": 6592605,
       "pubDate": "2026-08-26"
+    },
+    {
+      "num": "012",
+      "title": "One Second of Black",
+      "description": "Twelve nights, twelve notifications, twelve seconds of black video. Brightened and laid end to end, they show a walk through his house that hasn't happened yet.",
+      "file": "episodes/012-one-second-of-black.mp3",
+      "duration": 553.152,
+      "bytes": 6851685,
+      "pubDate": "2026-08-28"
     }
   ]
 }

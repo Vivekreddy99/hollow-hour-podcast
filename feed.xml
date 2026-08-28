@@ -116,5 +116,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>11</itunes:episode>
     </item>
+    <item>
+      <title>One Second of Black</title>
+      <description>Twelve nights, twelve notifications, twelve seconds of black video. Brightened and laid end to end, they show a walk through his house that hasn&#x27;t happened yet.</description>
+      <itunes:summary>Twelve nights, twelve notifications, twelve seconds of black video. Brightened and laid end to end, they show a walk through his house that hasn&#x27;t happened yet.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hollow-hour-podcast/episodes/012-one-second-of-black.mp3" length="6851685" type="audio/mpeg"/>
+      <guid isPermaLink="false">bujji-012</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:09:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>12</itunes:episode>
+    </item>
   </channel>
 </rss>
