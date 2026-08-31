@@ -127,5 +127,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>12</itunes:episode>
     </item>
+    <item>
+      <title>The Last Stop Isn&#x27;t on the Map</title>
+      <description>Every passenger on the last train is lined up for a stop that doesn&#x27;t exist. She&#x27;s the only one still seated — and there&#x27;s a reason.</description>
+      <itunes:summary>Every passenger on the last train is lined up for a stop that doesn&#x27;t exist. She&#x27;s the only one still seated — and there&#x27;s a reason.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/hollow-hour-podcast/episodes/013-the-last-stop-isn-t-on-the-map.mp3" length="7335093" type="audio/mpeg"/>
+      <guid isPermaLink="false">bujji-013</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:09:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>13</itunes:episode>
+    </item>
   </channel>
 </rss>
